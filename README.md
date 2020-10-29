@@ -18,7 +18,7 @@ In this assignment, I was asked to take 6 csv files and look at employees of a f
 I inspected the provided CSVs and sketched out an ERD of the tables.
 I used freeware at quickdatabasedesigns.com in order to create an ERD regarding the SQL database.  I assigned primary keys, along with foreign keys relating back to employees.emp_no and departments.dept_no. 
 Here is the results of the ERD:
-![Data_Modeling_ERD](EmployeeSQL/ERD_Diagram.png)
+![Data_Modeling_ERD](EmployeeSQL/erd_diagram.png)
 
 ## Section 2 - Data Engineering
 
